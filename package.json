@@ -6,7 +6,7 @@
     "main": "./src/paparazzo",
     "repository": {
       "type": "git",
-      "url": "https://github.com/rodowi/Paparazzo.js.git"
+      "url": "https://github.com/cdynak/Paparazzo.js.git"
     },
     "keywords": [
       "mjpg",
